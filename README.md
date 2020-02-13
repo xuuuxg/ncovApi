@@ -20,4 +20,3 @@ maven下包
 `
 =======
 原地址以及接口文档：https://github.com/cumt-robin/wuhan_best_wishes
->>>>>>> 8ab3dc82dec3976972e1f909c88be790da999c96
