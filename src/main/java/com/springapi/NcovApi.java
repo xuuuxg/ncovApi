@@ -2,9 +2,7 @@ package com.springapi;
 
 import com.com.tools.Result;
 import com.com.tools.Tools;
-import net.sf.json.JSONArray;
 import net.sf.json.JSONObject;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.HashMap;
