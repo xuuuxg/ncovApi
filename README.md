@@ -4,7 +4,6 @@
 
 我将https接口二次封装
 
-<<<<<<< HEAD
 接口文档：https://github.com/cumt-robin/wuhan_best_wishes
 
 ## 使用
